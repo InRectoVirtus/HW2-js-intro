@@ -111,8 +111,9 @@ console.log(third);
 console.log('------------- # 12');
 
 function countNumber(number) {
+    let partialSum = 0;
     for(i = 1; i <= number; i++) {
-       let partialSum = (i * (i + 1)) / 2;
+       partialSum += i
        console.log(partialSum);
     }
 }
