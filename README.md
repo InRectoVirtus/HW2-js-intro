@@ -1,11 +1,11 @@
-[5-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#5-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
-[6-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#6-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
-[7-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#7-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
-[8-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#8-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
-[9-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#9-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
-[10-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#10-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
-[11-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#11-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
-[12-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#12-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
+[5-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#5-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[6-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#6-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[7-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#7-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[8-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#8-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[9-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#9-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[10-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#10-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[11-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#11-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[12-ое задание](https://github.com/InRectoVirtus/HW2-js-intro#12-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
 
 #  5-ое задание # 
 
