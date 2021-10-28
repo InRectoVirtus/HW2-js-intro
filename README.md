@@ -122,11 +122,12 @@
 ## Программа суммирует все числа от 1 до заданного целого числа. Заданное число указываете в коде ##
 
     function countNumber(number) {
-        for(i = 1; i <= number; i++) {
-           let partialSum = (i * (i + 1)) / 2;
-           console.log(partialSum);
+    let partialSum = 0;
+    for(i = 1; i <= number; i++) {
+       partialSum += i
+       console.log(partialSum);
         }
-    }  
+    }
 > Для выполнения этого задания мне понадобилось найти формулу </br>  
 
 [Формула](https://en.wikipedia.org/wiki/1_%2B_2_%2B_3_%2B_4_%2B_%E2%8B%AF)
