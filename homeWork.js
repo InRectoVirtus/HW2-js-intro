@@ -117,3 +117,4 @@ function countNumber(number) {
     }
 }
   countNumber(5)
+  countNumber(3)
